@@ -10,4 +10,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Repository](https://github.com/eyedent1ty/product-preview-card-component)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [See Live](https://eyedent1ty-product-preview-card-component.netlify.app/)
